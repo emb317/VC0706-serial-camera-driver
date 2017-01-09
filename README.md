@@ -17,4 +17,4 @@
 * Renesas Peripheral Driver Library を使用している。  
 <https://www.renesas.com/ja-jp/products/software-tools/tools/code-generator/renesas-peripheral-driver-library.html>  
 
-![読み出し時間](/src/camera/Time_to_read_image.png")
+![img](/src/camera/Time_to_read_image.png)
